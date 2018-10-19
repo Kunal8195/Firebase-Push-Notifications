@@ -1,4 +1,6 @@
-To start the project
+## Simple notification utility using firebase and nodejs
+
+#### To start the project
 
 just go to
 
